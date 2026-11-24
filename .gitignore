@@ -1,0 +1,15 @@
+# Local course materials and original screenshot
+/Individual Assignment.docx
+/Individual Assignment Solutions(1).pdf
+/Screenshot 2025-11-25 at 10.24.30 PM.png
+
+# Local credentials and transient files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
